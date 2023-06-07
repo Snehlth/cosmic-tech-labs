@@ -34,4 +34,4 @@ The count for that letter is then incremented in the index we got.
 
 * space complexity for the dictionary is O(n*m)
 
-  where n is the number of words given in the list and  is the length of the list.
+  where n is the number of words given in the list and m is the length of the list.
