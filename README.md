@@ -5,7 +5,7 @@ for example if the words are: ["cat", "dog", "tac", "god", "act"]
 then the anagram sets are: [["cat", "tac", "act"], ["dog", "god"]].
 this is the python code for grouping the anagrams
 
-1)first defaultdict module is imported from collections
+1)first defaultdict class is imported from collections module
 
 2)The function group_anagrams takes a list of words as input.
 
